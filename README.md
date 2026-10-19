@@ -1,16 +1,55 @@
-# React + Vite
+# 🎵 YouTube Music Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive web-based YouTube Music clone built with **Vite** and **vanilla JavaScript**.
+>
+> 🌐 **Live Demo:** [music.devhubx.org](https://music.devhubx.org)
 
-Currently, two official plugins are available:
+![GitHub repo size](https://img.shields.io/github/repo-size/mominur-in/youtube-music-clone?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/mominur-in/youtube-music-clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mominur-in/youtube-music-clone?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/mominur-in/youtube-music-clone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 **Try it now:** [https://music.devhubx.org](https://music.devhubx.org)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🎧 **YouTube Music-inspired UI** – Clean and modern design
+- ▶️ **Music Playback Controls** – Play, Pause, Next, Previous
+- 🔍 **Search Functionality** – Find your favorite tracks
+- 📱 **Fully Responsive** – Works on mobile, tablet, and desktop
+- ⚡ **Fast & Optimized** – Powered by Vite
+- 🎨 **Modern CSS** – Smooth animations and transitions
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Vite** | Build tool & dev server |
+| **JavaScript (ES6+)** | Core logic |
+| **HTML5** | Structure |
+| **CSS3** | Styling & animations |
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/mominur-in/youtube-music-clone.git
+
+# Navigate into the folder
+cd youtube-music-clone
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
